@@ -1,0 +1,36 @@
+body {
+        background: linear-gradient(180deg, white,#ff8d8d);
+        height: fit-content;
+}
+h1 {
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    font-weight:bolder;
+    margin-bottom: 1em;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    border-radius: 25px;
+}
+.contents {
+   display: block;
+   margin: auto;
+   padding: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   width: max(80%, 550px);
+   border: 2px solid black;
+   text-align: left;
+   border-radius: 25px;
+   background-color: rgb(247, 234, 234);
+   
+ 
+}
+a {
+    text-decoration: none;
+    color: black;
+}    
